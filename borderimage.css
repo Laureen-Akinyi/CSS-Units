@@ -1,0 +1,27 @@
+* {
+    background: seashell;
+}
+
+#borderimage1 {
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(image/christian-mackie-cc0Gg3BegjE-unsplash.jpg) 50 round;
+    width: 200px;
+    height: 150px;
+}
+
+#borderimage2 {
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(image/christian-mackie-cc0Gg3BegjE-unsplash.jpg) 20% round;
+    width: 200px;
+    height: 150px;
+}
+
+#borderimage3 {
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(image/christian-mackie-cc0Gg3BegjE-unsplash.jpg) 30% round;
+    width: 200px;
+    height: 150px;
+}

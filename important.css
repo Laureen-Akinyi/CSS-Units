@@ -1,0 +1,25 @@
+#myid {
+    background-color: burlywood !important;
+}
+
+.myclass {
+    background-color: aqua
+}
+
+p {
+    background-color: blue;
+}
+
+.btn {
+    background-color: #8c8c8c !important; 
+    color: white !important;
+    padding: 12px !important;
+    border: 2px solid black !;
+    border-radius: 16em !important;
+    cursor: pointer; 
+}
+
+#mydiv button {
+    background-color: saddlebrown;
+    color: white;
+}
